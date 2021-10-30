@@ -1,4 +1,4 @@
-# RTOS_Final_Project_Max_Pettit
+# RTOS Final Project Max Pettit
 
 Each week has its own directory.
 Within each week there is at least the following
