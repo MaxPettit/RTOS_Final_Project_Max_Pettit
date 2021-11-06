@@ -1,5 +1,7 @@
 # RTOS Final Project Max Pettit
 
+Week 2: First code upload. Code added as a .sls file
+
 Each week has its own directory.
 Within each week there is at least the following:
   - One pdf and word document containing unit testing
