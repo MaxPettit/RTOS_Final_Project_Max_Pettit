@@ -1,5 +1,7 @@
 # RTOS Final Project Max Pettit
 
+Week 5: Updated task diagram. Included a screenshot of Segger view of project. Game is nearly finished, just need add configurability so it takes in input for config parameters.
+
 Week 4: Unit test files are part of project code and also included separately. Code in zip format. Game should be playable though not finished. All risks resolved or accepted.
 
 Week 3: Code also as sls file, these files are supposedly easy to updload to simplicity studio but I'll do zip's from now on.
