@@ -1,4 +1,5 @@
 # RTOS Final Project Max Pettit
+Final Update: Includes 2 Segger Systemview screenshots. Includes separate analysis of solution document. Final code in zip form. Unit tests within project. Configuration data struct in physics.c, if user changes configuration data it is suggested to turn off unit tests by setting run_all bool to false (some tests compare values against defualt ranges and may fail).
 
 Week 5: Updated task diagram. Included a screenshot of Segger view of project. Game is nearly finished, just need add configurability so it takes in input for config parameters.
 
